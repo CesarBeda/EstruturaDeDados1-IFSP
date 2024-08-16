@@ -1,0 +1,19 @@
+Analise os diversos métodos de ordenação demonstrados ludicamente nos vídeos a seguir:
+
+• Insertion Sort
+video: https://youtu.be/ROalU379l3U
+
+• Quick Sort
+video: https://youtu.be/ywWBy6J5gz8
+
+• Selection Sort
+video: https://youtu.be/Ns4TPTC8whw
+
+• Merge Sort
+video: https://youtu.be/XaqR3G_NVoo
+
+• Shell Sort
+video: https://youtu.be/CmPA7zE8mx0
+
+
+Escolha um deles e implemente utilizando o mesmo conjunto de valores (vetor de inteiros) utilizado durante a aula.
