@@ -1,5 +1,4 @@
 {
-  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe",
   "files.associations": {
     "array": "cpp",
     "atomic": "cpp",
@@ -17,12 +16,14 @@
     "cwchar": "cpp",
     "cwctype": "cpp",
     "deque": "cpp",
+    "list": "cpp",
     "unordered_map": "cpp",
     "vector": "cpp",
     "exception": "cpp",
     "algorithm": "cpp",
     "functional": "cpp",
     "iterator": "cpp",
+    "map": "cpp",
     "memory": "cpp",
     "memory_resource": "cpp",
     "numeric": "cpp",
@@ -46,6 +47,9 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "thread": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "bitset": "cpp",
+    "cstring": "cpp",
+    "regex": "cpp"
   }
 }
